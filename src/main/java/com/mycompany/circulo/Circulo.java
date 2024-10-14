@@ -19,8 +19,9 @@ public class Circulo {
         return Math.PI*radio*radio;
     }
     public double longitud(){
-        return 2*Math.Pi*radio;
+        return 2*Math.PI*radio;
     }
     public double diametro(){
-        return Math.2*radio
+        return Math.2*radio;
+    }
 }
