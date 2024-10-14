@@ -16,6 +16,6 @@ public class Circulo {
     }
 
     public double area(){
-        return Marh.PI*radio*radio;
+        return Math.PI*radio*radio;
     }
 }
