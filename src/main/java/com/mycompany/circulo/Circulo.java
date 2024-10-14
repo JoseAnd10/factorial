@@ -22,6 +22,6 @@ public class Circulo {
         return 2*Math.PI*radio;
     }
     public double diametro(){
-        return Math.2*radio;
+        return 2*radio;
     }
 }
