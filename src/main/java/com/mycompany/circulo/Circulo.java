@@ -18,4 +18,7 @@ public class Circulo {
     public double area(){
         return Math.PI*radio*radio;
     }
+    public double cArea(){
+        return Math.Pi*PI*radio;
+    }
 }
